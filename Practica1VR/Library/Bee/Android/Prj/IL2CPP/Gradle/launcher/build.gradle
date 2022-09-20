@@ -16,7 +16,7 @@ android {
     defaultConfig {
         minSdkVersion 29
         targetSdkVersion 31
-        applicationId 'com.unamFI.Practica1VR'
+        applicationId 'com.unamFI.Practica2VR'
         ndk {
             abiFilters 'armeabi-v7a', 'arm64-v8a'
         }

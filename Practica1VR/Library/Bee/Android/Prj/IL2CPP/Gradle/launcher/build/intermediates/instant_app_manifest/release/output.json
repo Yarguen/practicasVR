@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "applicationId": "com.unamFI.Practica1VR",
+  "applicationId": "com.unamFI.Practica2VR",
   "variantType": "BASE_APK",
   "elements": [
     {
@@ -19,7 +19,7 @@
       },
       "path": "AndroidManifest.xml",
       "properties": {
-        "packageId": "com.unamFI.Practica1VR",
+        "packageId": "com.unamFI.Practica2VR",
         "split": "",
         "minSdkVersion": "29"
       }
