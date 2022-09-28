@@ -6,6 +6,8 @@ android.hardware.touchscreen.multitouch, android.hardware.touchscreen.multitouch
 	UnityEngine.Input::GetTouch was present in:
 		Assembly-CSharp-FeaturesChecked.txt
 		Google.XR.Cardboard-FeaturesChecked.txt
+		UnityEngine.UI-FeaturesChecked.txt
 	UnityEngine.Input::get_touchCount was present in:
 		Assembly-CSharp-FeaturesChecked.txt
 		Google.XR.Cardboard-FeaturesChecked.txt
+		UnityEngine.UI-FeaturesChecked.txt
